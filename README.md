@@ -21,9 +21,9 @@ by command `python manage.py migrate`
 6. To create a super user run command `python manage.py createsuperuser` and create the username and password for admin login in `http://127.0.0.1:8000/admin`
       
 ### Subject Details
-- Class : TE (COMP) Div A - 2023-2024
-- Subject : Mini Project – 2 A  (MP-2(2023))
-- Project Type : Mini Project
+- Class : BE (COMP) Div A - 2024-2025
+- Subject : Major Project
+- Project Type : Major Project
 
 ### Platform, Libraries and Frameworks used
 1. [Django](https://www.djangoproject.com/)
